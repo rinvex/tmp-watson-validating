@@ -1,3 +1,8 @@
+Change package name temporary to "rinvex/tmp-watson-validating" to publish on packagist.
+
+This is temporary forked package until a new release published by author, fully supports Laravel v8+
+
+
 Validating, a validation trait for Laravel
 ==========================================
 
